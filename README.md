@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**ViniciusLN1/ViniciusLN1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Back-End developer, 
 
-Here are some ideas to get you started:
+## Info
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Name: Vinicius Lopes do Nascimento.
+* Stack: Python, C#.
+* University: Bachelor of Software Engineering.
+* Living in: Brasil
+
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-lopes-do-nascimento/">
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  />
+</a>
