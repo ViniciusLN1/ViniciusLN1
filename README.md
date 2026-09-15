@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Back-End developer, 
+My name is Vinícius and im work with back-end developer. 
 
 ## Info
 
 * Name: Vinicius Lopes do Nascimento.
-* Stack: Python, C#.
+* Stack: 
 * University: Bachelor of Software Engineering.
 * Living in: Brasil
 
