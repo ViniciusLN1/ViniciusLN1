@@ -5,7 +5,7 @@ My name is Vinícius and im work with back-end developer.
 ## Info
 
 * Name: Vinicius Lopes do Nascimento.
-* Stack: 
+* Stack: C#, .NET, ASP.NET
 * University: Bachelor of Software Engineering.
 * Living in: Brasil
 
