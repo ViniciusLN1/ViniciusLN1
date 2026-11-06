@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Vinícius and i work with back-end developer. 
+My name is Vinícius and i work with back-end development. 
 
 ## Info
 
